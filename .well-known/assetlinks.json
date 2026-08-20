@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cephesap.app",
+      "sha256_cert_fingerprints": [
+        "1C:8D:11:BB:54:65:7C:B6:52:8A:00:2B:DA:B9:9F:A4:8F:BB:37:54:A3:21:31:D7:41:B8:FF:81:01:D3:09:69"
+      ]
+    }
+  }
+]
